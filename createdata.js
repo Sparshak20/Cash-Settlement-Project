@@ -1,5 +1,5 @@
 
-import { BinaryHeap } from './Binaryheap.js';
+import { BinaryHeap } from './heap.js';
 
 onload = function () {
     // create a network
