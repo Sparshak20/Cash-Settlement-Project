@@ -1,4 +1,3 @@
-
 import { BinaryHeap } from './heap.js';
 
 onload = function () {
